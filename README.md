@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HCstarCoder34
 - 👀 I’m interested in web development.  
-- 🌱 I’m currently learning full-stack web development
-- 💞️ I’m looking to collaborate on projects to expand my knowledge of web development
+- 🌱 I’m currently learning full-stack web development and computer programming.
+- 💞️ I’m looking for an entry level internship to get started and collaborate on projects to expand my knowledge of web development.
 - 📫 Email me at cosmicquests@yahoo.com
 
 <!---
